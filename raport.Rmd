@@ -1,0 +1,19 @@
+---
+title: "Analiza danych - silownia"
+author: "Oliwia Kolendowska, Maja Milewczyk, Magda Łuciw"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::downcute:
+    self_contained: true
+    default_style: "light"
+    downcute_theme: "default"
+---
+
+
+```{r setup, include=FALSE}
+## Global options
+knitr::opts_chunk$set(cache = TRUE)
+library(tidyverse)
+dane <- read.csv("silownia/silownia_new.csv")
+```
+
