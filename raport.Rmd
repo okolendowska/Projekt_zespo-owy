@@ -43,5 +43,6 @@ Niniejszy projekt ma na celu przeprowadzenie szczegółowej analizy danych dotyc
 
 10.Jak wskaźnik BMI koreluje z maksymalnym tętnem i spalonymi kaloriami podczas treningu?
 
-11. tba
+# Pytanie 1 
+odpowiedz
 
