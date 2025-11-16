@@ -45,3 +45,4 @@ Niniejszy projekt ma na celu przeprowadzenie szczegółowej analizy danych dotyc
 
 # Pytanie 1 
 odpowiedz
+
