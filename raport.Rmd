@@ -17,8 +17,32 @@ library(tidyverse)
 dane <- read.csv("silownia/silownia_new.csv")
 ```
 
-#Wstęp 
+# Wstęp 
+
 Niniejszy projekt ma na celu przeprowadzenie szczegółowej analizy danych dotyczących wzorców ćwiczeń, wskaźników sprawności i efektywności treningowej członków siłowni, wykorzystując pakiet statystyczny R. Baza danych "Siłownia" zawiera 973 unikatowe próbki z danymi demograficznymi, fizycznymi oraz kluczowymi wskaźnikami treningowymi (takimi jak tętno, spalone kalorie i czas trwania sesji).
 
 ## Pytania badawcze
+<<<<<<< HEAD
 cc
+=======
+1.Jak poziom doświadczenia (początkujący, średniozaawansowany, ekspert) wpływa na średnie i maksymalne tętno podczas treningu?
+
+2.Czy istnieje związek między rodzajem treningu (kardio, siłowy, joga, HIIT) a liczbą spalonych kalorii?
+
+3.Jak częstość treningów w tygodniu wpływa na procent tkanki tłuszczowej użytkowników?
+
+4.Czy spożycie wody podczas treningu różni się w zależności od rodzaju wykonywanego treningu?
+
+5.Jak wiek i płeć wpływają na wskaźnik BMI i procent tkanki tłuszczowej wśród członków siłowni?
+
+6.Jaki jest wpływ czasu trwania sesji treningowej na całkowitą liczbę spalonych kalorii?
+
+7.Czy bardziej doświadczeni użytkownicy mają wyższe lub niższe tętno spoczynkowe przed treningiem?
+
+8.Jak rodzaj treningu wpływa na średnie tętno podczas sesji?
+
+9.Czy istnieje różnica w wydajności (kalorie spalane na godzinę) pomiędzy różnymi poziomami doświadczenia?
+
+10.Jak wskaźnik BMI koreluje z maksymalnym tętnem i spalonymi kaloriami podczas treningu?
+
+>>>>>>> 2c6bda834e2198ec61cb7875ad53f29cfe547c41
